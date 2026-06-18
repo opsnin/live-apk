@@ -1,0 +1,36 @@
+#EXTM3U
+
+# ─────────────────────────────────────────────────────────────
+# Himalaya HD (NetTV)
+# The wmsAuthSign token expires ~24h after it is issued.
+# Re-capture a fresh playlist.m3u8 URL daily and replace the line below.
+# If it loads then fails in StreamVault (relative-URL re-encoding),
+# swap the URL for the direct tokenized chunklist:
+#   https://ott-nettv-02.nettv.com.np/ffplay/wc-Himalaya2/chunks.m3u8?wmsAuthSign=<TOKEN>
+# ─────────────────────────────────────────────────────────────
+#EXTINF:-1 tvg-name="Himalaya HD" group-title="Nepal",Himalaya HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://ott-nettv-02.nettv.com.np/ffplay/wc-Himalaya2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xOC8yMDI2IDEyOjI1OjQyIEFNJmhhc2hfdmFsdWU9ZmN2dGZLRER1RGUxTjJidEI4azlkdz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTIwMA==
+
+# ─────────────────────────────────────────────────────────────
+# Max HD
+# Plays in browser. If it fails in StreamVault, it is most likely
+# User-Agent / header gating at the segment level — run the same
+# curl -I test we used for Himalaya to confirm before fiddling.
+# ─────────────────────────────────────────────────────────────
+#EXTINF:-1 tvg-name="Max HD" group-title="Movies",Max HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
+
+# ─────────────────────────────────────────────────────────────
+# RTB Aneka (CloudFront — static path, no token, stable)
+# ─────────────────────────────────────────────────────────────
+#EXTINF:-1 tvg-id="RTBAneka.bn@SD",RTB Aneka (720p)
+https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
+
+# ─────────────────────────────────────────────────────────────
+# RTB Go (CloudFront — static path, no token, stable)
+# ─────────────────────────────────────────────────────────────
+#EXTINF:-1 tvg-id="RTBGo.bn@SD",RTB Go (720p)
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
+
