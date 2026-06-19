@@ -10,7 +10,8 @@
 # ─────────────────────────────────────────────────────────────
 #EXTINF:-1 tvg-name="Himalaya HD" group-title="Nepal",Himalaya HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://ott-nettv-02.nettv.com.np/ffplay/wc-Himalaya2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xOC8yMDI2IDk6NTM6NTAgUE0maGFzaF92YWx1ZT0yVFVmbnZSZXpvNkhTcHhpZkhKV3lRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MjAw
+https://ott-nettv-02.nettv.com.np/ffplay/wc-Himalaya2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xOC8yMDI2IDEyOjI1OjQyIEFNJmhhc2hfdmFsdWU9ZmN2dGZLRER1RGUxTjJidEI4azlkdz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTIwMA==
+https://ott-nettv-01.nettv.com.np/ffplay/wc-Himalaya2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xOC8yMDI2IDk6NTM6NTAgUE0maGFzaF92YWx1ZT0yVFVmbnZSZXpvNkhTcHhpZkhKV3lRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MjAw
 
 # ─────────────────────────────────────────────────────────────
 # Max HD
@@ -36,3 +37,7 @@ https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="WIN.Futbol@HD",Win Futbol (1080pp)
 https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
+
+
+#EXTINF:-1 tvg-id="BBC.English@HD",BBC English (1080pp)
+https://601.thelistener.pk/bbc.m3u8
