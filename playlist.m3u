@@ -41,3 +41,8 @@ https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
 
 #EXTINF:-1 tvg-id="BBC.English@HD",BBC English (1080pp)
 https://601.thelistener.pk/bbc.m3u8
+
+
+#EXTINF:-1 tvg-id="TVRI.World@HD",TVRI World (1080pp)
+
+https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
