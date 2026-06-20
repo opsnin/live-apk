@@ -43,5 +43,7 @@ https://601.thelistener.pk/bbc.m3u8
 
 
 #EXTINF:-1 tvg-id="TVRI.World@HD",TVRI World (1080pp)
-
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
+
+#EXTINF:-1 tvg-id="Somoy.TV@HD",Somoy (1080pp)
+https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
