@@ -57,3 +57,7 @@ https://rxne77juptdeyke3tytvgqwyh.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-id="TSN.hd@HD",TSN HD (1080p)
 https://streamfree.app/live-cdn/austria-vs-argentina1080p/index.m3u8?_t=WuPiKBf7itqFc81p-24mzg&_e=1782173917&_n=8e7cf66a996ee6ac
+
+
+#EXTINF:-1 tvg-id="Colatv.hd@HD",Cola HD (1080p)
+https://live05.apusport.com/live/08552895.m3u8
