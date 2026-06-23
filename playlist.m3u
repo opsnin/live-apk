@@ -10,7 +10,8 @@
 # ─────────────────────────────────────────────────────────────
 #EXTINF:-1 tvg-name="Himalaya HD" group-title="Nepal",Himalaya HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://202.166.192.204/ffplay/wc-Himalaya2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMy8yMDI2IDU6MDE6MTIgUE0maGFzaF92YWx1ZT1VMlduM3BLYTROSzF0Rlh0eXB6aGRBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MjAw
+https://202.166.192.204/ffplay/wc-Himalaya2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMy8yMDI2IDU6MDE6MTIgUE0maGFzaF92YWx1ZT1VMlduM3BLYTROSzF0Rlh0eXB6aGRBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MjAw
+
 # ─────────────────────────────────────────────────────────────
 # Max HD
 # Plays in browser. If it fails in StreamVault, it is most likely
