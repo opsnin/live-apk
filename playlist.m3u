@@ -76,3 +76,14 @@ https://live05.apusport.com/live/08552895.m3u8
 #EXTVLCOPT:http-origin=https://www.watchdgo.com
 #EXTVLCOPT:http-referrer=https://www.watchdgo.com/
 https://ottlive.dishhome.com.np/protected/BATOzZkB0RDJ74Ryniuo/dash/manifest.mpd
+
+
+#EXTINF:-1 tvg-id="Switzerland.vs.Canada",Switzerland vs Canada (HD)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fmbxoz9wce.execute-api.ap-south-1.amazonaws.com/prodv1/proxy/v1/license/widevine|Content-Type=application/json|{"contentid":"Bypc9J4BMMjq9ZdEM319","customdata":{"drmtoken":"eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250ZW50aWQiOiJCeXBjOUo0Qk1NanE5WmRFTTMxOSIsInVzZXJpZCI6IlYxQko1Zm5sWGowMSIsImRldmljZWlkIjoibXE3bjNwaTMtbjYzb24iLCJzZWN1cml0eUxldmVsIjoiU1ciLCJsaWNlbnNlRHVyYXRpb24iOjk5OTk5LCJvZmZsaW5lUGxheWJhY2siOnRydWUsImhkY3AiOiJOT05FIiwiaWF0IjoxNzgyMjg5NDQzLCJleHAiOjE3ODIyODk3NDN9.PZGwOFI5c-x0nhPMvBDHchBAcuV3FdQETNgDw0-6FNW_diV04mBymtSU7WUM6XousJCcB08Y_eEUIqJkdgP2brPHSFyjc3F22NqBS2hWZksuI2gNBhztAuXSfmh0Ec0qOZJ-Kce6T8w9EJ4muJa82F61GFPdSXd5iC2OD2rDkHv5s2MAuGNoOn_GddCwegUVVWxXfVWuYxvRQHZsIfUqb1sZh89MMAWyyKCRB9mvedR6-Mmmz6VaskUFwgkJKHaDDjvqK2osy-KmOZWlvKsBr63qLSBTy5Y83Avt72WNqFnNeOo4nBT2SN8CnHwugYLPgS8MdQOZW4okvIwRgeUN2w","packageid":"NFYN_J0Bnu3lGwWV"},"drmscheme":"WIDEVINE","payload":"b{SSM}","providerid":"DishHome"}|JBbody
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+#EXTVLCOPT:http-origin=https://www.watchdgo.com
+#EXTVLCOPT:http-referrer=https://www.watchdgo.com/
+https://ottlive.dishhome.com.np/protected/IFYG_J0Bnu3lGwDQJK_e/dash/manifest.mpd
