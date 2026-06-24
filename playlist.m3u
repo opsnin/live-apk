@@ -86,3 +86,10 @@ https://ottlive.dishhome.com.np/protected/BATOzZkB0RDJ74Ryniuo/dash/manifest.mpd
 #EXTVLCOPT:http-origin=https://www.watchdgo.com
 #EXTVLCOPT:http-referrer=https://www.watchdgo.com/
 https://ottlive.dishhome.com.np/protected/IFYG_J0Bnu3lGwDQJK_e/dash/manifest.mpd
+
+
+#EXTINF:-1 tvg-id="49" tvg-chno="149" tvg-name="FIFA49" tvg-language="NEP" tvg-logo="https://www.watchdgo.com/dgo-logo.png" group-title="fifa",FIFA 49
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://www.dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://www.dishhomego.com.np/
+https://livemedia-web.dishhomego.com.np/hls/live/20000917/FIFA49/hdntl=exp=1782405431~acl=%2f*~id=V1BJ5fnlXj01~data=hdntl~hmac=135c5cbd6deeca801d820b787fe8f97cbd91eb8c29aa3d9623e3eb85566ec982/5.m3u8?aka_me_session_id=AAAAAAAAAAA3WT1qAAAAANSD6Kv8M+e+hXt6sRi5Ge1HfvbdY7O8vm6WkzXGgI6nsDGOrM947LhYggFTzzttddEPx6fheB7y&aka_media_format_type=hls
