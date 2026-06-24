@@ -55,7 +55,7 @@ https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 #EXTINF:-1 tvg-id="TRT.2k@HD",TRT 2K (2k)
 https://rxne77juptdeyke3tytvgqwyh.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-id="Fox.hd@HD",Fox HD (1080p)
+#EXTINF:-1 tvg-id="Him.dgo@HD",Him DGO HD (1080p)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"OQ64kw7TRgaVA5wAAZPPXQ","k":"Qif36TJiWrPycXWHwnTYRA"}],"type":"temporary"}
@@ -66,3 +66,13 @@ https://ottlive.dishhome.com.np/protected/IFYG_J0Bnu3lGwDQJK_e/hls/manifest.m3u8
 
 #EXTINF:-1 tvg-id="Colatv.hd@HD",Cola HD (1080p)
 https://live05.apusport.com/live/08552895.m3u8
+
+
+#EXTINF:-1 tvg-id="40" tvg-chno="135" tvg-name="prime-times-hd" tvg-language="NEP" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/685be973-4d13-4d04-9b83-7d4d589a9a10.jpg" group-title="Nepali", Prime Times HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"2y5zLmL8S0+NRt7LTzykaw","k":"zBwiU03C3AoJMB0bax1T8g"},{"kty":"oct","kid":"lQCt0QFFTXq+yUkSg/yixA","k":"+xvKGIz0JHu/xvUmXki+GQ"},{"kty":"oct","kid":"OA7LROJlSdOOam+LyK4JEw","k":"dAcM8dAMTqkByIUOUZsKVg"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+#EXTVLCOPT:http-origin=https://www.watchdgo.com
+#EXTVLCOPT:http-referrer=https://www.watchdgo.com/
+https://ottlive.dishhome.com.np/protected/BATOzZkB0RDJ74Ryniuo/dash/manifest.mpd
