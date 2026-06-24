@@ -56,6 +56,12 @@ https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 https://rxne77juptdeyke3tytvgqwyh.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-id="Fox.hd@HD",Fox HD (1080p)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"OQ64kw7TRgaVA5wAAZPPXQ","k":"Qif36TJiWrPycXWHwnTYRA"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+#EXTVLCOPT:http-origin=https://www.watchdgo.com
+#EXTVLCOPT:http-referrer=https://www.watchdgo.com/
 https://ottlive.dishhome.com.np/protected/IFYG_J0Bnu3lGwDQJK_e/hls/manifest.m3u8
 
 #EXTINF:-1 tvg-id="Colatv.hd@HD",Cola HD (1080p)
