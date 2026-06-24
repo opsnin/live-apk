@@ -88,11 +88,5 @@ https://ottlive.dishhome.com.np/protected/BATOzZkB0RDJ74Ryniuo/dash/manifest.mpd
 https://ottlive.dishhome.com.np/protected/IFYG_J0Bnu3lGwDQJK_e/dash/manifest.mpd
 
 
-#EXTINF:-1 tvg-id="FIFA49" tvg-name="FIFA 49 HD" tvg-logo="" group-title="Sports",FIFA 49 HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-G991B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
-#EXTVLCOPT:http-origin=https://www.watchdgo.com
-#EXTVLCOPT:http-referrer=https://www.watchdgo.com/
-https://livemedia-web.dishhomego.com.np/hls/live/20000917/FIFA49/hdntl=exp=1782409614~acl=%2f*~id=V1BJ5fnlXj01~data=hdntl~hmac=eca9fffc8393d13158058f10cba35ff68b784f96471b7a99b628fb7443479baa/6.m3u8?aka_me_session_id=AAAAAAAAAACOaT1qAAAAAJPW8ELzjSEEm1jeklm%2flLg1iEOTNo806NMZ3LouGtRWY8WHp8a23uBsuerJlyBgYplU9BLbuToC&aka_media_format_type=hls
+#EXTINF:-1 tvg-id="FIFA49" tvg-name="FIFA49" tvg-logo="" group-title="Sports",FIFA 49
+https://livemedia-web.dishhomego.com.np/hls/live/20000917/FIFA49/hdntl=exp=1782411255~acl=%2f*~id=V1BJ5fnlXj01~data=hdntl~hmac=7a7ecb04e282522e5a3aa13ef04d0063035f68d6d7cd208f14f83bca06d57cdb/6.m3u8?aka_me_session_id=AAAAAAAAAAD3bz1qAAAAAHW41C1Qkz0%2f26CzQ78J3xCwq1PfC9XZkc46UkAvMe0iXbFo8S1krYc44mUr8SPuW7Wr7QW6sHVo&aka_media_format_type=hls
