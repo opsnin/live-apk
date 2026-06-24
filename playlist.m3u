@@ -89,8 +89,18 @@ https://ottlive.dishhome.com.np/protected/IFYG_J0Bnu3lGwDQJK_e/dash/manifest.mpd
 
 
 #EXTINF:-1 tvg-id="FIFA50" tvg-name="FIFA50" group-title="Sports",FIFA 51
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-referrer=https://www.watchdgo.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://livemedia-web.dishhomego.com.np/hls/live/20001063/FIFA50/hdntl=exp=1782413489~acl=%2f*~id=V1BJ5fnlXj01~data=hdntl~hmac=cc9549e76f5bd6320374f58fc4c67592dd1e7ae8108dbbc3aa3c63d2d86d98df/5.m3u8?aka_me_session_id=AAAAAAAAAACxeD1qAAAAADGxLledVJ7fGPknjgulkWSzsbxGERxZt%2fnXIY5KKFIXwMRfwhgPEjFLoAwmJ11%2fHfZL%2fiJh9LqX&aka_media_format_type=hls
+#EXTM3U
+#EXT-X-VERSION:7
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="Audio",NAME="eng",DEFAULT=YES,AUTOSELECT=YES,CHANNELS="2",LANGUAGE="eng",URI="https://livemedia-web.dishhomego.com.np/hls/live/20000917/FIFA49/hdntl=exp=1782413899~acl=%2f*~id=V1BJ5fnlXj01~data=hdntl~hmac=eae0413ec7893d4489d663e5f37511d11a63c10139e099efee8d93270a616b01/6.m3u8?aka_me_session_id=AAAAAAAAAABLej1qAAAAAKsgwxcJ2DV%2f+BFho69A3RiB5ltOmnSeMBCSFy7jGg12GAEsp10%2fAHNxK1KW8M0+AaQ8s4QySaQu&aka_media_format_type=hls"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="Audio",NAME="nep",DEFAULT=NO,AUTOSELECT=YES,CHANNELS="2",LANGUAGE="nep",URI="https://livemedia-web.dishhomego.com.np/hls/live/20000917/FIFA49/hdntl=exp=1782413899~acl=%2f*~id=V1BJ5fnlXj01~data=hdntl~hmac=eae0413ec7893d4489d663e5f37511d11a63c10139e099efee8d93270a616b01/7.m3u8?aka_me_session_id=AAAAAAAAAABLej1qAAAAAKsgwxcJ2DV%2f+BFho69A3RiB5ltOmnSeMBCSFy7jGg12GAEsp10%2fAHNxK1KW8M0+AaQ8s4QySaQu&aka_media_format_type=hls"
+#EXT-X-STREAM-INF:BANDWIDTH=1281928,AVERAGE-BANDWIDTH=1281928,CODECS="avc1.4d401e,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000,AUDIO="Audio"
+https://livemedia-web.dishhomego.com.np/hls/live/20000917/FIFA49/hdntl=exp=1782413899~acl=%2f*~id=V1BJ5fnlXj01~data=hdntl~hmac=eae0413ec7893d4489d663e5f37511d11a63c10139e099efee8d93270a616b01/1.m3u8?aka_me_session_id=AAAAAAAAAABLej1qAAAAAKsgwxcJ2DV%2f+BFho69A3RiB5ltOmnSeMBCSFy7jGg12GAEsp10%2fAHNxK1KW8M0+AaQ8s4QySaQu&aka_media_format_type=hls
+#EXT-X-STREAM-INF:BANDWIDTH=2303656,AVERAGE-BANDWIDTH=2303656,CODECS="avc1.4d401e,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000,AUDIO="Audio"
+https://livemedia-web.dishhomego.com.np/hls/live/20000917/FIFA49/hdntl=exp=1782413899~acl=%2f*~id=V1BJ5fnlXj01~data=hdntl~hmac=eae0413ec7893d4489d663e5f37511d11a63c10139e099efee8d93270a616b01/2.m3u8?aka_me_session_id=AAAAAAAAAABLej1qAAAAAKsgwxcJ2DV%2f+BFho69A3RiB5ltOmnSeMBCSFy7jGg12GAEsp10%2fAHNxK1KW8M0+AaQ8s4QySaQu&aka_media_format_type=hls
+#EXT-X-STREAM-INF:BANDWIDTH=3325384,AVERAGE-BANDWIDTH=3325384,CODECS="avc1.4d401f,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000,AUDIO="Audio"
+https://livemedia-web.dishhomego.com.np/hls/live/20000917/FIFA49/hdntl=exp=1782413899~acl=%2f*~id=V1BJ5fnlXj01~data=hdntl~hmac=eae0413ec7893d4489d663e5f37511d11a63c10139e099efee8d93270a616b01/3.m3u8?aka_me_session_id=AAAAAAAAAABLej1qAAAAAKsgwxcJ2DV%2f+BFho69A3RiB5ltOmnSeMBCSFy7jGg12GAEsp10%2fAHNxK1KW8M0+AaQ8s4QySaQu&aka_media_format_type=hls
+#EXT-X-STREAM-INF:BANDWIDTH=4857992,AVERAGE-BANDWIDTH=4857992,CODECS="avc1.64001f,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000,AUDIO="Audio"
+https://livemedia-web.dishhomego.com.np/hls/live/20000917/FIFA49/hdntl=exp=1782413899~acl=%2f*~id=V1BJ5fnlXj01~data=hdntl~hmac=eae0413ec7893d4489d663e5f37511d11a63c10139e099efee8d93270a616b01/4.m3u8?aka_me_session_id=AAAAAAAAAABLej1qAAAAAKsgwxcJ2DV%2f+BFho69A3RiB5ltOmnSeMBCSFy7jGg12GAEsp10%2fAHNxK1KW8M0+AaQ8s4QySaQu&aka_media_format_type=hls
+#EXT-X-STREAM-INF:BANDWIDTH=8434088,AVERAGE-BANDWIDTH=8434088,CODECS="avc1.640028,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000,AUDIO="Audio"
+https://livemedia-web.dishhomego.com.np/hls/live/20000917/FIFA49/hdntl=exp=1782413899~acl=%2f*~id=V1BJ5fnlXj01~data=hdntl~hmac=eae0413ec7893d4489d663e5f37511d11a63c10139e099efee8d93270a616b01/5.m3u8?aka_me_session_id=AAAAAAAAAABLej1qAAAAAKsgwxcJ2DV%2f+BFho69A3RiB5ltOmnSeMBCSFy7jGg12GAEsp10%2fAHNxK1KW8M0+AaQ8s4QySaQu&aka_media_format_type=hls
