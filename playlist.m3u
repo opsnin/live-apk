@@ -99,3 +99,17 @@ https://raw.githubusercontent.com/opsnin/live-apk/refs/heads/main/hd.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://www.watchdgo.com/","Origin":"https://www.watchdgo.com","User-Agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36","deviceid":"mq7n3pi3-n63on"}
 https://raw.githubusercontent.com/opsnin/live-apk/refs/heads/main/hd1.m3u8
+
+
+#--- mkmaster auto block START (do not edit by hand) ---
+#EXTINF:-1 tvg-id="ecuador-vs-germany" tvg-name="Ecuador vs Germany" group-title="Sports",Ecuador vs Germany
+#EXTVLCOPT:http-referrer=https://www.watchdgo.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://www.watchdgo.com/","Origin":"https://www.watchdgo.com","User-Agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36","deviceid":"mq7n3pi3-n63on"}
+https://raw.githubusercontent.com/opsnin/live-apk/refs/heads/main/ecuador_vs_germany.m3u8
+#EXTINF:-1 tvg-id="curaçao-vs-côte-divoire" tvg-name="Curaçao vs Côte d’Ivoire" group-title="Sports",Curaçao vs Côte d’Ivoire
+#EXTVLCOPT:http-referrer=https://www.watchdgo.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://www.watchdgo.com/","Origin":"https://www.watchdgo.com","User-Agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36","deviceid":"mq7n3pi3-n63on"}
+https://raw.githubusercontent.com/opsnin/live-apk/refs/heads/main/curaçao_vs_côte_divoire.m3u8
+#--- mkmaster auto block END ---
