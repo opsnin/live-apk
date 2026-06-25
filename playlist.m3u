@@ -88,8 +88,14 @@ https://ottlive.dishhome.com.np/protected/BATOzZkB0RDJ74Ryniuo/dash/manifest.mpd
 #EXTVLCOPT:http-referrer=https://www.watchdgo.com/
 https://ottlive.dishhome.com.np/protected/IFYG_J0Bnu3lGwDQJK_e/dash/manifest.mpd
 
-#EXTINF:-1 tvg-id="FIFA53" tvg-name="FIFA 53 HD" group-title="Sports",FIFA 53 HD
+#EXTINF:-1 tvg-id="himalya.hd" tvg-name="Himalayan TV HD" group-title="Sports",Himalayan TV HD
 #EXTVLCOPT:http-referrer=https://www.watchdgo.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://www.watchdgo.com/","Origin":"https://www.watchdgo.com","User-Agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36","deviceid":"mq7n3pi3-n63on"}
 https://raw.githubusercontent.com/opsnin/live-apk/refs/heads/main/hd.m3u8
+
+#EXTINF:-1 tvg-id="himalya-sports.hd" tvg-name="Himalayan Sports HD" group-title="Sports",Himalayan Sports HD
+#EXTVLCOPT:http-referrer=https://www.watchdgo.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://www.watchdgo.com/","Origin":"https://www.watchdgo.com","User-Agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36","deviceid":"mq7n3pi3-n63on"}
+https://raw.githubusercontent.com/opsnin/live-apk/refs/heads/main/hd1.m3u8
