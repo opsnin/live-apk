@@ -69,10 +69,10 @@ https://ottlive.dishhome.com.np/protected/IFYG_J0Bnu3lGwDQJK_e/dash/manifest.mpd
 #EXTINF:-1 tvg-id="40" tvg-chno="132" tvg-name="WC Worldcup" tvg-language="eng" group-title="fifa",WC Live
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":["keys":{"k":"17d2ac8dbc5429bd70af3433aa12158d","kid":"14eeabf30c14b7fbf3008c03099ce011","kty":"oct"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"LDOKEX1DTOS741aSMa-Q8Q","k":"qWM9kB7oo_T1isMUtcX0-w"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
-#EXTVLCOPT:http-origin=https://google.com
-#EXTVLCOPT:http-referrer=https://google.com
+#EXTVLCOPT:http-origin=https://watchdgo.com
+#EXTVLCOPT:http-referrer=https://watchdgo.gom
 https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd
 
 #--- mkmaster auto block START (do not edit by hand) ---
