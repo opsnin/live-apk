@@ -1,0 +1,6 @@
+#EXTM3U
+#EXT-X-VERSION:7
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="Audio",NAME="eng",DEFAULT=YES,AUTOSELECT=YES,CHANNELS="2",LANGUAGE="eng",URI="https://livemedia-web.dishhomego.com.np/hls/live/20000917/FIFA83/hdntl=exp=1783102796~acl=%2f*~id=V1BJ5fnlXj01~data=hdntl~hmac=8fac80905db9ad6008a131f4af7f60857776116efe73987a2a84db3c6d803ac5/6.m3u8?aka_me_session_id=AAAAAAAAAABM%2fUdqAAAAAJGx8YGBHROcoAoFBMV3Mp+g+BCCcNuYAlJ%2fjg5I7bz1jJ9LtGxHlF%2fnk4b%2fm5JhvfxCdu0CUx5D&aka_media_format_type=hls"
+#EXT-X-STREAM-INF:BANDWIDTH=8434088,AVERAGE-BANDWIDTH=8434088,CODECS="avc1.640028,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000,AUDIO="Audio"
+https://livemedia-web.dishhomego.com.np/hls/live/20000917/FIFA83/hdntl=exp=1783102796~acl=%2f*~id=V1BJ5fnlXj01~data=hdntl~hmac=8fac80905db9ad6008a131f4af7f60857776116efe73987a2a84db3c6d803ac5/5.m3u8?aka_me_session_id=AAAAAAAAAABM%2fUdqAAAAAJGx8YGBHROcoAoFBMV3Mp+g+BCCcNuYAlJ%2fjg5I7bz1jJ9LtGxHlF%2fnk4b%2fm5JhvfxCdu0CUx5D&aka_media_format_type=hls
