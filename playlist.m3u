@@ -87,9 +87,9 @@ https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.m
 #EXTVLCOPT:http-referrer=https://watchdgo.gom
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
 #--- mkmaster auto block START (do not edit by hand) ---
-#EXTINF:-1 tvg-id="argentina-vs-cabo-verde" tvg-name="Argentina vs Cabo Verde" group-title="Sports",Argentina vs Cabo Verde
+#EXTINF:-1 tvg-id="colombia-vs-ghana" tvg-name="Colombia vs Ghana" group-title="Sports",Colombia vs Ghana
 #EXTVLCOPT:http-referrer=https://www.watchdgo.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://www.watchdgo.com/","Origin":"https://www.watchdgo.com","User-Agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36","deviceid":"mq7n3pi3-n63on"}
-https://raw.githubusercontent.com/opsnin/live-apk/refs/heads/main/argentina_vs_cabo_verde.m3u8
+https://raw.githubusercontent.com/opsnin/live-apk/refs/heads/main/colombia_vs_ghana.m3u8
 #--- mkmaster auto block END ---
