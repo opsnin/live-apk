@@ -24,10 +24,6 @@ http://202.166.192.204/ffplay/wc-Himalaya2/playlist.m3u8?wmsAuthSign=c2VydmVyX3R
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 
 
-#EXTINF:-1 tvg-id="WIN.Futbol@HD",Win Futbol (1080pp)
-https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
-
-
 #EXTINF:-1 tvg-id="Somoy.TV@HD",Somoy (1080pp)
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
 
@@ -48,6 +44,25 @@ https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 #EXTVLCOPT:http-referrer=https://www.watchdgo.com/
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
 
+
+#EXTINF:-1 tvg-id="Gol.tv@HD",Gol TV FHD (1080p)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"HGv9jRzdTfaepfxN0vAluw","k":"tv2QAn2sepSpRh-LJjjLtA"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+#EXTVLCOPT:http-origin=https://www.watchdgo.com
+#EXTVLCOPT:http-referrer=https://www.watchdgo.com/
+https://dmbgaz4xf6jyh.cloudfront.net/live-stream-dai/69690cfcce0dc031830e7c1a/123a264b71764485bd49eca2d552cf33/d97743de3620a865848fff7a9de14dda1bf2409d/manifest.mpd?aid=688aae6d61c87d6274c05065&dnt=true&access_token=63ey9SOpQeHBRfWJYQLXQjelQc0QM1HXmlHp4iZrH8UCOCM8QtGIGg1sEEPJH0R0yXktUEXdLeB&uid=Knx65GY6UbaWSADZybEvf6m5MvqNIuNs&sid=bwRy9BgSc4RFeVhYh52hVIY8uPsJ4v4d&pid=A0xT1VnepBvKKqyeyRNtNkZBmHBrNNZM&ref=ditu.caracoltv.com&ext_pb=0&es=dmbgaz4xf6jyh.cloudfront.net&proto=https&pz=us&xr=us-east-2&manifestfilter=video_height:480-1080
+
+
+#EXTINF:-1 tvg-id="Gol.tv1@HD",Gol TV1 FHD (1080p)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"HGv9jRzdTfaepfxN0vAluw","k":"tv2QAn2sepSpRh-LJjjLtA"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+#EXTVLCOPT:http-origin=https://www.watchdgo.com
+#EXTVLCOPT:http-referrer=https://www.watchdgo.com/
+https://dmbgaz4xf6jyh.cloudfront.net/live-stream-dai/69690cfcce0dc031830e7c1a/123a264b71764485bd49eca2d552cf33/d97743de3620a865848fff7a9de14dda1bf2409d/session/767d0549-9e07-495c-a9bc-a9e722aa575c/manifest.mpd?aid=688aae6d61c87d6274c05065&dnt=true&access_token=63ey9SOpQeHBRfWJYQLXQjelQc0QM1HXmlHp4iZrH8UCOCM8QtGIGg1sEEPJH0R0yXktUEXdLeB&uid=Knx65GY6UbaWSADZybEvf6m5MvqNIuNs&sid=bwRy9BgSc4RFeVhYh52hVIY8uPsJ4v4d&pid=A0xT1VnepBvKKqyeyRNtNkZBmHBrNNZM&ref=ditu.caracoltv.com&ext_pb=0&es=dmbgaz4xf6jyh.cloudfront.net&proto=https&pz=us&xr=us-east-2&manifestfilter=video_height:480-1080
 
 
 #EXTINF:-1 tvg-id="40" tvg-chno="135" tvg-name="prime-times-hd" tvg-language="NEP" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/685be973-4d13-4d04-9b83-7d4d589a9a10.jpg" group-title="Nepali", Prime Times HD
