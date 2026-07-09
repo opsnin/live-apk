@@ -1,0 +1,6 @@
+#EXTM3U
+#EXT-X-VERSION:7
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="Audio",NAME="eng",DEFAULT=YES,AUTOSELECT=YES,CHANNELS="2",LANGUAGE="eng",URI="https://livemedia-web.dishhomego.com.np/hls/live/20000917/FIFA97/hdntl=exp=1783712859~acl=%2f*~id=V1BJ5fnlXj01~data=hdntl~hmac=b3cd5b4b9f4d4cedfa3efb36aaf8baf2871cfbc964b05c8d690fcbe02d110035/6.m3u8?aka_me_session_id=AAAAAAAAAABbTFFqAAAAAKQ3u357JUh9JhEyMYcdO0%2fQXdNTGzz4h6mx1eMb8G+aKykdCfRMyJ1W0FewoBUnsIzPXZs3rUw+&aka_media_format_type=hls"
+#EXT-X-STREAM-INF:BANDWIDTH=8434088,AVERAGE-BANDWIDTH=8434088,CODECS="avc1.640028,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000,AUDIO="Audio"
+https://livemedia-web.dishhomego.com.np/hls/live/20000917/FIFA97/hdntl=exp=1783712859~acl=%2f*~id=V1BJ5fnlXj01~data=hdntl~hmac=b3cd5b4b9f4d4cedfa3efb36aaf8baf2871cfbc964b05c8d690fcbe02d110035/5.m3u8?aka_me_session_id=AAAAAAAAAABbTFFqAAAAAKQ3u357JUh9JhEyMYcdO0%2fQXdNTGzz4h6mx1eMb8G+aKykdCfRMyJ1W0FewoBUnsIzPXZs3rUw+&aka_media_format_type=hls
