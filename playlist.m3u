@@ -24,6 +24,10 @@ http://202.166.192.204/ffplay/wc-Himalaya2/playlist.m3u8?wmsAuthSign=c2VydmVyX3R
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 
 
+#EXTINF:-1 tvg-id="TSN4.tv@HD",TSN 4 FHD (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://hugh.cdn.rumble.cloud/live/hd37fm8g/slot-117/jqbi-j3u4/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Somoy.TV@HD",Somoy (1080pp)
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
 
