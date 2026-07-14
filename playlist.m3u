@@ -106,9 +106,9 @@ https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.m
 #EXTVLCOPT:http-referrer=https://watchdgo.gom
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
 #--- mkmaster auto block START (do not edit by hand) ---
-#EXTINF:-1 tvg-id="argentina-vs-switzerland" tvg-name="Argentina vs Switzerland" group-title="Sports",Argentina vs Switzerland
+#EXTINF:-1 tvg-id="france-vs-spain--semi-final-i" tvg-name="France vs Spain- Semi Final I" group-title="Sports",France vs Spain- Semi Final I
 #EXTVLCOPT:http-referrer=https://www.watchdgo.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://www.watchdgo.com/","Origin":"https://www.watchdgo.com","User-Agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36","deviceid":"mq7n3pi3-n63on"}
-https://raw.githubusercontent.com/opsnin/live-apk/refs/heads/main/argentina_vs_switzerland.m3u8
+https://raw.githubusercontent.com/opsnin/live-apk/refs/heads/main/france_vs_spain-_semi_final_i.m3u8
 #--- mkmaster auto block END ---

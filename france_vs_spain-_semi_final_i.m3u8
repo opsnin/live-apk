@@ -1,0 +1,6 @@
+#EXTM3U
+#EXT-X-VERSION:7
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="Audio",NAME="eng",DEFAULT=YES,AUTOSELECT=YES,CHANNELS="2",LANGUAGE="eng",URI="https://livemedia-web.dishhomego.com.np/hls/live/20000917/FIFA101/hdntl=exp=1784142205~acl=%2f*~id=V1BJ5fnlXj01~data=hdntl~hmac=fcb1016fd19bcf43f406591433d2fc8e445865cd13e7730aa2ef9c0a74e12d82/6.m3u8?aka_me_session_id=AAAAAAAAAAB92VdqAAAAAE52DmxD+e5faAn3eUBftESJOkxmxCDGfaPPKBGzCifWRnqaiTIuPTeXXMxKz5tOtqrBUqmw2l+u&aka_media_format_type=hls"
+#EXT-X-STREAM-INF:BANDWIDTH=8434088,AVERAGE-BANDWIDTH=8434088,CODECS="avc1.640028,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000,AUDIO="Audio"
+https://livemedia-web.dishhomego.com.np/hls/live/20000917/FIFA101/hdntl=exp=1784142205~acl=%2f*~id=V1BJ5fnlXj01~data=hdntl~hmac=fcb1016fd19bcf43f406591433d2fc8e445865cd13e7730aa2ef9c0a74e12d82/5.m3u8?aka_me_session_id=AAAAAAAAAAB92VdqAAAAAE52DmxD+e5faAn3eUBftESJOkxmxCDGfaPPKBGzCifWRnqaiTIuPTeXXMxKz5tOtqrBUqmw2l+u&aka_media_format_type=hls
