@@ -26,7 +26,7 @@ https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 
 #EXTINF:-1 tvg-id="TSN4.tv@HD",TSN 4 FHD (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hugh.cdn.rumble.cloud/live/hd37fm8g/slot-117/jqbi-j3u4/playlist.m3u8
+https://manifest-oci-us-ashburn-1-vop1.fastly.mux.com/Nws9y1OC5BPczOuEX5sIwiqyXehs2YFewOAWw00ruiw5eoq5h4RTkWfmHx1OmP1K9OSN0100NjMmhKB1eh9lt2ZRA/rendition.m3u8?cdn=fastly&exclude_pdt=false&expires=1784142000&live=1&skid=default&signature=NmE1N2NmYjZfMDBjZTc3YzBhZTNhNGU1NTgyYTc3MWFhNDEyMTFjNWIxZWE4ZTdjMGExZWM3MjE3NTc3M2ZhYTkwNjZlYmNiYQ==
 
 #EXTINF:-1 tvg-id="Somoy.TV@HD",Somoy (1080pp)
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
