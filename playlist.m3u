@@ -15,21 +15,47 @@
 # User-Agent / header gating at the segment level — run the same
 # curl -I test we used for Himalaya to confirm before fiddling.
 # ─────────────────────────────────────────────────────────────
-#EXTINF:-1 tvg-name="Max HD" group-title="Movies",Max HD
+#EXTINF:-1 tvg-name="irib-uhd" group-title="Sports",IRIB UHD(2k)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live-aburayhan1103.telewebion.ir/ek/faratar/live/2160p/index.m3u8
+
+#EXTINF:-1 tvg-name="irib-1080-uhd" group-title="Sports",IRIB UHD(1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live-aburayhan1103.telewebion.ir/ek/faratar/live/108050p/index.m3u8
+
+#EXTINF:-1 tvg-name="irib-1440-uhd" group-title="Sports",IRIB UHD(FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live-aburayhan1103.telewebion.ir/ek/faratar/live/1440p/index.m3u8
+
+#EXTINF:-1 tvg-name="Max HD" group-title="Sports",Bein Max FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 
+#EXTINF:-1 tvg-name="Tvp HD" group-title="Sports",TVP FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://1nyaler.streamhostingcdn.top/stream/28/index.m3u8
 
-#EXTINF:-1 tvg-id="TNTARG.tv@HD",TNT Sports ARG
+#EXTINF:-1 tvg-name="dazn HD" group-title="Sports",DAZN FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://1nyaler.streamhostingcdn.top/stream/16/index.m3u8
+
+#EXTINF:-1 tvg-name="sportt.tv1 HD" group-title="Sports",Sport TV1 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://1nyaler.streamhostingcdn.top/stream/20/index.m3u8
+
+#EXTINF:-1 tvg-id="TNTARG.tv@HD",TNT Sports ARG FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://1nyaler.streamhostingcdn.top/stream/30/index.m3u8
 
+#EXTINF:-1 tvg-name="rai.sp HD" group-title="Sports",Rai Sports FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://1nyaler.streamhostingcdn.top/stream/2/index.m3u8
 
-#EXTINF:-1 tvg-id="D-sports.tv1@HD",DSports
+#EXTINF:-1 tvg-id="D-sports.tv1@HD",DSports FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://205.235.6.29:8000/play/a0nq/index.m3u8
 
-#EXTINF:-1 tvg-id="aym.tv1@HD",AYM Sports
+#EXTINF:-1 tvg-id="aym.tv1@HD",AYM Sports FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://aym-as.otteravision.com/aym/as/as.m3u8
 
@@ -56,6 +82,11 @@ https://ottlive.dishhome.com.np/protected/BATOzZkB0RDJ74Ryniuo/dash/manifest.mpd
 #EXTVLCOPT:http-origin=https://www.watchdgo.com
 #EXTVLCOPT:http-referrer=https://www.watchdgo.com/
 https://ottlive.dishhome.com.np/protected/IFYG_J0Bnu3lGwDQJK_e/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="sky-sports-cri.tv@HD",SKY Sports Cricket FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://1nyaler.streamhostingcdn.top/stream/10/index.m3u8
+
 #--- mkmaster auto block START (do not edit by hand) ---
 #EXTINF:-1 tvg-id="england-vs-argentina---semi-final-ii" tvg-name="England vs Argentina - Semi Final II" group-title="Sports",England vs Argentina - Semi Final II
 #EXTVLCOPT:http-referrer=https://www.watchdgo.com/
