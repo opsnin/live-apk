@@ -79,7 +79,7 @@ https://live-bd1.tv360.bitel.com.pe/manifest/america/master_clean_source.m3u8
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="40" tvg-chno="135" tvg-name="prime-times-hd" tvg-language="NEP" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/685be973-4d13-4d04-9b83-7d4d589a9a10.jpg" group-title="Nepali", Prime Times HD
+#EXTINF:-1 tvg-id="40" tvg-chno="135" tvg-name="prime-times-hd" tvg-language="NEP" group-title="Nepali", Prime Times HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"2y5zLmL8S0+NRt7LTzykaw","k":"zBwiU03C3AoJMB0bax1T8g"},{"kty":"oct","kid":"lQCt0QFFTXq+yUkSg/yixA","k":"+xvKGIz0JHu/xvUmXki+GQ"},{"kty":"oct","kid":"OA7LROJlSdOOam+LyK4JEw","k":"dAcM8dAMTqkByIUOUZsKVg"}],"type":"temporary"}
