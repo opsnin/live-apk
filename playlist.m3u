@@ -27,6 +27,10 @@ https://live-aburayhan1103.telewebion.ir/ek/faratar/live/108050p/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://live-aburayhan1103.telewebion.ir/ek/faratar/live/1440p/index.m3u8
 
+#EXTINF:-1 tvg-name="ntvplus-uhd" group-title="Nepali",NTV Plys HD(FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://ott-nettv-02.nettv.com.np/ott_abr/ntvplushdabr.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOS8yMDI2IDExOjMyOjEwIEFNJmhhc2hfdmFsdWU9T2ROSVFWUDBqMGtkTGR5SkdDQ3Rldz09JnZhbGlkbWludXRlcz02MCZpZD1leUowZVhBaU9pSktWMVFpTENKaGJHY2lPaUpTVXpJMU5pSjkuZXlKbGVIQWlPakUzT0RRMk16TTFNVE1zSW5OMVluTmpjbWxpWlhKZmFXUWlPaUkxTkRJeU9UQXhJaXdpYzNSaUlqb2lhbUZ1WVcxclgyWmlkRzFrTFRVaWZRLjJqcU5iOEdaUDlWWTJPbWJfYUtLRE1EX21kejBBaVR1UmI2UUFUb1ZZU1U=
+
 #EXTINF:-1 tvg-name="Max HD" group-title="Sports",Bein Max FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
