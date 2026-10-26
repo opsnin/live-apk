@@ -111,7 +111,7 @@ https://1nyaler.streamhostingcdn.top/stream/10/index.m3u8
 # the stored Bearer) — just keep the Bearer fresh via POST /api/bearer.
 # The static license_key is a best-effort fallback for OTT Navigator only.
 # ─────────────────────────────────────────────────────────────
-#EXTINF:-1 tvg-name="npl-2026" group-title="Nepali",LBL vs SPR (NPL 2026)
+#EXTINF:-1 tvg-name="npl-2026" group-title="NPL", (NPL 2026)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
