@@ -116,5 +116,5 @@ https://1nyaler.streamhostingcdn.top/stream/10/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:jhyap.license_mint_url=https://ott-resources.geniustv.geniussystems.com.np/subscriber/sports/v1/namespaces/5/subscribers/5422901/stbs/janamk_fbtmd-5/cricket/matches/a-rz--cricket--yC2103164684294324257/stream-url
-#KODIPROP:inputstream.adaptive.license_key=https://jhyap-tv.iamzanam.workers.dev/mint-license?u=https%3A%2F%2Fott-resources.geniustv.geniussystems.com.np%2Fsubscriber%2Fsports%2Fv1%2Fnamespaces%2F5%2Fsubscribers%2F5422901%2Fstbs%2Fjanamk_fbtmd-5%2Fcricket%2Fmatches%2Fa-rz--cricket--yC2103164684294324257%2Fstream-url
+#KODIPROP:inputstream.adaptive.license_key=https://jhyap-tv.iamzanam.workers.dev/live-license
 https://lb-ottnp.nettvstreamz.com/live_dash/npl_live-26/manifest.mpd
