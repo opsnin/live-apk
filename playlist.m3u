@@ -104,17 +104,15 @@ https://ottlive.dishhome.com.np/protected/IFYG_J0Bnu3lGwDQJK_e/dash/manifest.mpd
 https://1nyaler.streamhostingcdn.top/stream/10/index.m3u8
 
 # ─────────────────────────────────────────────────────────────
-# NPL 2026 (NetTV / EZDRM Widevine) — Lumbini Lions vs Sudurpaschim Royals
-# The EZDRM license token expires ~16 min after the account Bearer is issued,
-# so a static license_key rots almost immediately. In jhyap-tv the backend
-# mints a live token at play time from the jhyap.license_mint_url below (using
-# the stored Bearer) — just keep the Bearer fresh via POST /api/bearer.
-# The static license_key is a best-effort fallback for OTT Navigator only.
+# NPL 2026 (NetTV / EZDRM Widevine) — auto-follows whatever match is live.
+# Both the manifest and the license are served by the Cloudflare worker, which
+# resolves the current live fixture and mints a fresh token at play time.
+# Requires a Widevine-capable player (Shaka / jhyap-tv, or OTT Navigator on a
+# modern device). Plain players (Video.js/native <video>) cannot play Widevine.
 # ─────────────────────────────────────────────────────────────
-#EXTINF:-1 tvg-name="npl-2026" group-title="NPL", (NPL 2026)
+#EXTINF:-1 tvg-name="npl-2026" group-title="NPL",NPL Live 2026
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0%20%28Macintosh%3B%20Intel%20Mac%20OS%20X%2010_15_7%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F156.0.0.0%20Safari%2F537.36
 #KODIPROP:inputstream.adaptive.license_key=https://jhyap-tv.iamzanam.workers.dev/live-license
 https://jhyap-tv.iamzanam.workers.dev/live-manifest
