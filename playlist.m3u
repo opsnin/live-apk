@@ -114,5 +114,6 @@ https://1nyaler.streamhostingcdn.top/stream/10/index.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.widevine_security_level=L3
 #KODIPROP:inputstream.adaptive.license_key=https://jhyap-tv.iamzanam.workers.dev/live-license
 https://jhyap-tv.iamzanam.workers.dev/live-manifest.mpd
